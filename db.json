@@ -21,19 +21,19 @@
     {
       "name": "Eggs",
       "category": "Dairy",
-      "isInCart": false,
+      "isInCart": true,
       "id": 8
     },
     {
       "name": "Brookside",
       "category": "Dairy",
-      "isInCart": false,
+      "isInCart": true,
       "id": 9
     },
     {
       "name": "Fresha",
       "category": "Dairy",
-      "isInCart": false,
+      "isInCart": true,
       "id": 10
     }
   ]
